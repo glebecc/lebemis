@@ -1,0 +1,4 @@
+spring.datasource.url=jdbc:postgresql://localhost/lebemisdb
+spring.datasource.username="Enter username here"
+spring.datasource.password="Enter password here"
+spring.jpa.generate-ddl=true

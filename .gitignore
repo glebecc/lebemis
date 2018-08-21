@@ -1,0 +1,8 @@
+.idea
+.idea/
+*.iml
+application.properties
+target
+target/*
+src/main/test
+src/main/test*
